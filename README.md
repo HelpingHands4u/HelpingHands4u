@@ -1,12 +1,14 @@
 
 <!-- PROFILE README: MOHAMMAD SHAHINUDDIN -->
+```html
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:2563EB&height=180&section=header&text=MOHAMMAD%20SHAHINUDDIN&fontSize=34&fontColor=FFFFFF"
-    alt="MOHAMMAD SHAHINUDDIN profile banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:F3E8FF,100:CCFBF1&height=200&section=header&text=MOHAMMAD%20SHAHINUDDIN&fontSize=32&fontColor=334155&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20DATA%20SCIENCE%20%26%20AI&descAlignY=60&descSize=12&descColor=475569"
+    alt="Mohammad Shahinuddin — Cybersecurity, Software Development, Data Science and AI"
     width="100%"
   />
 </p>
+```
   <h2>Hi there, welcome to my GitHub profile 👋</h2>
 
   <p>
