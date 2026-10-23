@@ -1,6 +1,4 @@
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFFFFF,50:F3E8FF,100:CCFBF1&amp;height=200&amp;section=header&amp;text=MOHAMMAD%20SHAHINUDDIN&amp;fontSize=32&amp;fontColor=334155&amp;fontAlignY=38" width="100%" alt="Mohammad Shahinuddin profile banner" />
 </p>
